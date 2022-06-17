@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @olademmy
 - 👀 I’m interested in web front end development
-- 🌱 I’m currently learning React
+- 🌱 I’m Proficient in using React
 - 💞️ I’m looking to collaborate on react js frontend projects
-- 📫 How to reach me tb3d85@gmail.com
+- 📫 How to reach me on addemy@tmoedevs.com
 
 <!---
 olademmy/olademmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
